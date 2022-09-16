@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: омега
+- text: альфа
+- text: лямбда
+- text: бета
+- text: омикрон
+- text: каппа
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Unchecked
+record: -1
+local_check: false
